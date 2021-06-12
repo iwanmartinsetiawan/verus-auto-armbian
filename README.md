@@ -11,8 +11,8 @@ wget -L https://raw.githubusercontent.com/iwanmartinsetiawan/verus-auto-armbian/
 ```
 nano miner.sh
 ```
-> wallet = ganti dengan wallet address verus kalian
-> workername = nama worker yang akan digunakan. Contoh : node-01
+  - wallet = ganti dengan wallet address verus kalian
+  - workername = nama worker yang akan digunakan. Contoh : node-01
 6. ketik command dibawah di terminal, untuk edit crontab
 ```
 crontab -e
