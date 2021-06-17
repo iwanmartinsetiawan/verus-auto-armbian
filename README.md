@@ -20,6 +20,6 @@ crontab -e
 ```
 7. Tambahkan script dibawah
 ```
-@reboot bash /root/miner.sh
+@reboot bash /root/miner.sh > /root/miner.log 2>&1
 ```
 8. Save dan quit.
