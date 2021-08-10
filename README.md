@@ -13,7 +13,7 @@ nano miner.sh
 ```
   - wallet = ganti dengan wallet address verus kalian
   - workername = nama worker yang akan digunakan. Contoh : node-01
-5. Save and quit
+5. Save and quit. Dengan cara tekan tombol CTRL+X, tekan tombol Y dan enter.
 6. ketik command dibawah di terminal, untuk edit crontab
 ```
 crontab -e
@@ -22,4 +22,4 @@ crontab -e
 ```
 @reboot bash /root/miner.sh > /root/miner.log 2>&1
 ```
-8. Save dan quit.
+8. Save dan quit. Dengan cara tekan tombol CTRL+X, tekan tombol Y dan enter.
